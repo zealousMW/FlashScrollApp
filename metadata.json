@@ -1,0 +1,5 @@
+{
+  "name": "FlashScroll AI",
+  "description": "A seamless, scrollable flashcard application featuring AI-powered generation, manual creation, and bulk import capabilities.",
+  "requestFramePermissions": []
+}
